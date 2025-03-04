@@ -4,7 +4,7 @@ body{
     color: white;
     font-weight: bold;
     padding: 5rem 2rem;
-    background-color: rgb(192, 174, 151);
+    background-color: rgb(38, 38, 84);
 }
 div{
     background-image: url(students.jpg);
@@ -30,14 +30,14 @@ button {
     border-radius: 5px;
 }
 #increment-btn{
-    background-color: green;
+    background-color: #4A90E2;
 }
 #decrement-btn{
-    background-color: red;
+    background-color: #154360;
 }
 #save-btn{
-    background-color: rgb(224, 181, 39);
+    background-color: #1f789b;
 }
 #reset-btn{
-    background-color: gray;
+    background-color: #5184a6;
 }
