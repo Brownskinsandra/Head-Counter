@@ -1,0 +1,43 @@
+body{
+    display: block;
+    margin: 0 auto;
+    color: white;
+    font-weight: bold;
+    padding: 5rem 2rem;
+    background-color: rgb(192, 174, 151);
+}
+div{
+    background-image: url(students.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-blend-mode: soft-light;
+    text-align: center;
+    align-content: center;
+    border-radius: 10px;
+}
+.black{
+    background-color: rgb(21, 21, 21, 0.8);
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#increment-btn{
+    background-color: green;
+}
+#decrement-btn{
+    background-color: red;
+}
+#save-btn{
+    background-color: rgb(224, 181, 39);
+}
+#reset-btn{
+    background-color: gray;
+}
