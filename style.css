@@ -24,7 +24,7 @@ button {
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     width: 200px;
     margin-bottom: 5px;
     border-radius: 5px;
@@ -39,5 +39,5 @@ button {
     background-color: #1f789b;
 }
 #reset-btn{
-    background-color: #5184a6;
+    background-color: #154360;
 }
